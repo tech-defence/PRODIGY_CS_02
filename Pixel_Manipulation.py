@@ -1,6 +1,6 @@
 from PIL import Image
 import os
-from tast2_art import logo,greet_by # Import the logo and created_by information
+from Code_Art import logo,greet_by # Import the logo and created_by information
 
 # ANSI escape codes for colors
 GREEN = "\033[92m"
